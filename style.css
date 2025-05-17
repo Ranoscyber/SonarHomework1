@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  background-color: darkblue;
+  height: 50px;
+  padding: 20px;
+  color: white;
+  width: 100%;
+}
+.body {
+  display: flex;
+}
+.box1 {
+  background: #e8e4e4;
+  width: 15%;
+  height: 2300px;
+  padding: 15px;
+}
+.box2 {
+  background: whitesmoke;
+  width: 85%;
+  height: fit-content;
+  padding: 15px;
+  color: blue;
+  padding-left: 20px;
+}
+.html {
+  color: black;
+}
+.htmlli {
+  padding-left: 30px;
+}
+.css {
+  color: black;
+}
+.cssli {
+  padding-left: 30px;
+}
+.cssf {
+  color: black;
+}
+.cssfli {
+  padding-left: 30px;
+}
+.js {
+  color: black;
+}
+.jsli {
+  padding-left: 30px;
+}
+.footer {
+  background: darkblue;
+  color: white;
+  padding: 20px;
+}
